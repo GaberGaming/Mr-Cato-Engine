@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "scr_cato",
+  "name": "ShowText",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

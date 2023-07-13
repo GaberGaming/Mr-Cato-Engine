@@ -1,4 +1,1 @@
-active = true
-texty = 528
-text = "Somone pressed f12!"
-alarm[0] = 60
+ShowText("Somone pressed f12!",3)

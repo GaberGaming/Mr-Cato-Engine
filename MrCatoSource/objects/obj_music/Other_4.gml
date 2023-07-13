@@ -2,7 +2,7 @@ if (room != Room7)
     song = sfx_music
 else
     song = sfx_ambient
-global.text = choose(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18)
+global.text = choose(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,10)
 if global.text = 1
 	window_set_caption("Did you know?: Cats have nine lives, and Mr. Cato has already wasted 8 of them.")
 else if global.text = 2
@@ -39,3 +39,7 @@ else if global.text = 17
 	window_set_caption("I wonder how many words I can fit into the window name before I get bored. Oh 19 apparently!")
 else if global.text = 18
 	window_set_caption("Santa Claus is not real, and Fox Game did not happen.")
+else if global.text = 19
+	window_set_caption("Fox Game is just a burning memory.")
+else if global.text = 20
+	window_set_caption("Mr Cato wasted.")
