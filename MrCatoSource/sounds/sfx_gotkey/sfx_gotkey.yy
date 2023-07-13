@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 0.400975,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Keygo",
+    "path": "folders/Sounds/Keygo.yy",
   },
   "preload": true,
   "sampleRate": 44100,

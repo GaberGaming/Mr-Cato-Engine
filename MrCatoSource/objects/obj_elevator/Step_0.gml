@@ -10,4 +10,7 @@ if (place_meeting(x, y, obj_cato) && obj_cato.onground && obj_cato.up && global.
     with (instance_create_depth(x, y, -9999999999999, obj_fadeout))
         targetRoom = other.targetRoom
     instance_destroy()
+	global.score += 10
+	if explosions
+		instance_create_depth(x,y,depth,obj_explosions)
 }

@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 0.777188,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Mr Cato",
+    "path": "folders/Sounds/Mr Cato.yy",
   },
   "preload": true,
   "sampleRate": 44100,

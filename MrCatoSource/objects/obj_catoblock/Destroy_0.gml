@@ -1,4 +1,5 @@
 SoundEffect(sfx_hitblock)
+SoundEffect(sfx_gibs)
 with (instance_create_depth((x + 32), (y + 32), (depth - 1), obj_particles))
     image_index = 0
 with (instance_create_depth((x + 32), (y + 32), (depth - 1), obj_particles))
@@ -16,3 +17,4 @@ with (instance_create_depth((x + 32), (y + 32), (depth - 1), obj_particles))
 with (instance_create_depth((x + 32), (y + 32), (depth - 1), obj_particles))
     image_index = 4
 instance_create_depth((x + 32), (y + 32), (depth + 1), obj_bang)
+global.score += 5

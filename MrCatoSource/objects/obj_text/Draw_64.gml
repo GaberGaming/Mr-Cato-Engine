@@ -1,5 +1,7 @@
+display_set_gui_size(640,480)
 var font = font_add_sprite_ext(spr_font,"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890.!?:",true,2)
 draw_set_font(font)
 draw_set_halign(fa_center)
-if active
-	draw_text(320,texty,text)
+draw_text(320,texty,text)
+draw_set_halign(-1)
+draw_text(32,48,(string("Score:") + (string(global.score))))

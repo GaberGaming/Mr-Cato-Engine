@@ -5,3 +5,4 @@ repeat (8) {
 }
 SoundEffect(sfx_gotkey)
 SoundEffect(sfx_hit)
+global.score += 20
