@@ -8,3 +8,4 @@ if instance_exists(obj_closingdoors)
     global.doorsneedtoclose = instance_number(obj_closingdoors)
 else
     global.doorsneedtoclose = 0
+//game_save("Save.sav");

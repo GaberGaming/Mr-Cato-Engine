@@ -1,1 +1,1 @@
-targetRoom = 7
+targetRoom = Room7
