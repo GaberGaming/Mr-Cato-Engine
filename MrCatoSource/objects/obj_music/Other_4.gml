@@ -16,7 +16,7 @@ else if global.text = 5
 else if global.text = 6
 	window_set_caption("Doo doo feces.")
 else if global.text = 7
-	window_set_caption("Also known as; Fox Game 2.")
+	window_set_caption("Also known as: Fox Game 2.")
 else if global.text = 8
 	window_set_caption("Mr. Cato's Wife is a bitch.")
 else if global.text = 9
@@ -42,4 +42,4 @@ else if global.text = 18
 else if global.text = 19
 	window_set_caption("Fox Game is just a burning memory.")
 else if global.text = 20
-	window_set_caption("Mr Cato wasted.")
+	window_set_caption("Santa Claus is not real, and Fox Game did not happen.")
