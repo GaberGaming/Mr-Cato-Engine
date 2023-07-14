@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_wall",
+  "name": "obj_stairsh",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -29,9 +29,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_wall",
-    "path": "sprites/spr_wall/spr_wall.yy",
+    "name": "spr_stairsh",
+    "path": "sprites/spr_stairsh/spr_stairsh.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_stairshitbox",
+    "path": "sprites/spr_stairshitbox/spr_stairshitbox.yy",
+  },
   "visible": true,
 }

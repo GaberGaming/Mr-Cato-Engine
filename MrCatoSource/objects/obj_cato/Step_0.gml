@@ -1,4 +1,4 @@
-Collisions()
+CollisionsCato()
 Inputs()
 scr_catostatestuff()
 image_xscale = xscale
