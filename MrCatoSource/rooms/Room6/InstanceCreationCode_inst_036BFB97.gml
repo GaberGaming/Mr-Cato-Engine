@@ -1,1 +1,1 @@
-targetRoom = Room7
+targetRoom = NUKEROOM
