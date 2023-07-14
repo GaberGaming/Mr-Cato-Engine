@@ -1,4 +1,4 @@
-function Collisions() {
+function CollisionsCato() {
 	if place_meeting(x+hsp,y,par_wall)
 	{
 	    yplus = 0;

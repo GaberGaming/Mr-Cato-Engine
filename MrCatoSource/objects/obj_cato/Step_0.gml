@@ -1,4 +1,4 @@
-Collisions()
+CollisionsCato()
 Inputs()
 scr_catostatestuff()
 image_xscale = xscale
@@ -10,5 +10,5 @@ if ((!onground) && state != statenum.ladder) {
 }
 else
     yscale = 1
-if y > room_height * 1.1
-	KillCato()
+if y > room_height * 1.5
+    KillCato()
