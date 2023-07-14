@@ -10,3 +10,5 @@ if ((!onground) && state != statenum.ladder) {
 }
 else
     yscale = 1
+if y > room_height * 1.5
+    KillCato()
