@@ -113,6 +113,7 @@
     {"name":"spr_titlecatopanik","order":2,"path":"sprites/spr_titlecatopanik/spr_titlecatopanik.yy",},
     {"name":"spr_ladder","order":13,"path":"sprites/spr_ladder/spr_ladder.yy",},
     {"name":"spr_gem","order":1,"path":"sprites/spr_gem/spr_gem.yy",},
+    {"name":"Room9","order":10,"path":"rooms/Room9/Room9.yy",},
     {"name":"spr_titlecato","order":1,"path":"sprites/spr_titlecato/spr_titlecato.yy",},
     {"name":"spr_cato_jump","order":2,"path":"sprites/spr_cato_jump/spr_cato_jump.yy",},
     {"name":"spr_scarydud","order":1,"path":"sprites/spr_scarydud/spr_scarydud.yy",},
