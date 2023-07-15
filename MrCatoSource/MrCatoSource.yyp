@@ -108,6 +108,7 @@
     {"id":{"name":"sfx_explosion","path":"sounds/sfx_explosion/sfx_explosion.yy",},},
     {"id":{"name":"sfx_ambient","path":"sounds/sfx_ambient/sfx_ambient.yy",},},
     {"id":{"name":"sfx_mrcatohm","path":"sounds/sfx_mrcatohm/sfx_mrcatohm.yy",},},
+    {"id":{"name":"Testroom","path":"rooms/Testroom/Testroom.yy",},},
     {"id":{"name":"sfx_hit","path":"sounds/sfx_hit/sfx_hit.yy",},},
     {"id":{"name":"sfx_gotkey","path":"sounds/sfx_gotkey/sfx_gotkey.yy",},},
     {"id":{"name":"sfx_rumble","path":"sounds/sfx_rumble/sfx_rumble.yy",},},
@@ -211,6 +212,7 @@
     {"roomId":{"name":"w","path":"rooms/w/w.yy",},},
     {"roomId":{"name":"Room8","path":"rooms/Room8/Room8.yy",},},
     {"roomId":{"name":"Room9","path":"rooms/Room9/Room9.yy",},},
+    {"roomId":{"name":"Testroom","path":"rooms/Testroom/Testroom.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

@@ -20,6 +20,7 @@
     {"name":"inst_07AAAB66","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_9C5D19DE","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_11008746","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_95C405BE","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd": false,
   "layers": [

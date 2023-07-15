@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_catoblock",
-    "path": "sprites/spr_catoblock/spr_catoblock.yy",
+    "name": "spr_catoblockbig",
+    "path": "sprites/spr_catoblockbig/spr_catoblockbig.yy",
   },
   "spriteMaskId": null,
   "visible": true,

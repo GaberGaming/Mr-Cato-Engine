@@ -10,6 +10,7 @@
     {"name":"inst_EB75F7B6_1","path":"rooms/TEMPLATE/TEMPLATE.yy",},
     {"name":"inst_6028652E_1","path":"rooms/TEMPLATE/TEMPLATE.yy",},
     {"name":"inst_F5DCD396_1","path":"rooms/TEMPLATE/TEMPLATE.yy",},
+    {"name":"inst_95C405BE_1","path":"rooms/TEMPLATE/TEMPLATE.yy",},
   ],
   "isDnd": false,
   "layers": [

@@ -80,6 +80,7 @@
     {"name":"sfx_explosion","order":3,"path":"sounds/sfx_explosion/sfx_explosion.yy",},
     {"name":"sfx_ambient","order":70,"path":"sounds/sfx_ambient/sfx_ambient.yy",},
     {"name":"sfx_mrcatohm","order":2,"path":"sounds/sfx_mrcatohm/sfx_mrcatohm.yy",},
+    {"name":"Testroom","order":11,"path":"rooms/Testroom/Testroom.yy",},
     {"name":"sfx_hit","order":1,"path":"sounds/sfx_hit/sfx_hit.yy",},
     {"name":"sfx_rumble","order":5,"path":"sounds/sfx_rumble/sfx_rumble.yy",},
     {"name":"sfx_music","order":76,"path":"sounds/sfx_music/sfx_music.yy",},
