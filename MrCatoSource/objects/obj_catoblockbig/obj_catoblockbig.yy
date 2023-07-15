@@ -1,17 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_onewaywall",
+  "name": "obj_catoblockbig",
   "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_catopunchhitbox","path":"objects/obj_catopunchhitbox/obj_catopunchhitbox.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level Geometry",
-    "path": "folders/Objects/Level Geometry.yy",
+    "name": "Blocks",
+    "path": "folders/Objects/Level Geometry/Blocks.yy",
   },
   "parentObjectId": {
     "name": "obj_wall",
@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_onewaywall",
-    "path": "sprites/spr_onewaywall/spr_onewaywall.yy",
+    "name": "spr_catoblockbig",
+    "path": "sprites/spr_catoblockbig/spr_catoblockbig.yy",
   },
   "spriteMaskId": null,
   "visible": true,
