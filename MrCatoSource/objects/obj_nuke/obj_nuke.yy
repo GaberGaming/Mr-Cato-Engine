@@ -32,9 +32,6 @@
     "name": "spr_nuke",
     "path": "sprites/spr_nuke/spr_nuke.yy",
   },
-  "spriteMaskId": {
-    "name": "spr_shirtdud",
-    "path": "sprites/spr_shirtdud/spr_shirtdud.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }
